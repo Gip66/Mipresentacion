@@ -1,0 +1,17 @@
+*{
+  font-family: Arial,Helvetica,Verdana,sans-serif;
+}
+h1{
+  color:blue;
+  color: #123456;
+}
+.cosas_azules{
+  color: lightblue;
+}
+.grande{
+  font-size: 3em;
+  font-weight: 100;
+}
+#nombre{
+  font-style: italic;
+}
